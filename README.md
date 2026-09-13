@@ -201,6 +201,13 @@ outside this repository — open an issue if you would like them added.
 - Chakravorty S. *et al.* (2007) A detailed analysis of 16S ribosomal RNA gene
   segments for the diagnosis of pathogenic bacteria. *J Microbiol Methods*
   69:330–339. — V1–V9 coordinates in E. coli numbering.
+- Freese H.M., Meier-Kolthoff J.P., Sardà Carbasse J., Afolayan A.O. & Göker M.
+  (2026) TYGS and LPSN in 2025: a Global Core Biodata Resource for genome-based
+  classification and nomenclature of prokaryotes within DSMZ Digital Diversity.
+  *Nucleic Acids Research* 54(D1):D884–D891.
+  [doi:10.1093/nar/gkaf1110](https://doi.org/10.1093/nar/gkaf1110)
+  — the current LPSN/TYGS database paper; LPSN is the source of the sequence set
+  analysed here.
 - Parte A.C. *et al.* (2020) LPSN — List of Prokaryotic names with Standing in
   Nomenclature. *Int J Syst Evol Microbiol* 70:5607–5612.
 - Šošić M. & Šikić M. (2017) Edlib: a C/C++ library for fast, exact sequence
